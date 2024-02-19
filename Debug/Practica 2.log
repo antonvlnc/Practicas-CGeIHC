@@ -1,0 +1,10 @@
+﻿  practica2.cpp
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\Practica 2\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\Practica 2\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\Practica 2\practica2.cpp(19,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica 2.vcxproj -> C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\Debug\Practica 2.exe
