@@ -1,0 +1,10 @@
+﻿  reporte1.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+  (compilando archivo de origen "reporte1.cpp")
+  C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\LabCGeiHC\include\glfw3.h(98,1):
+  vea la definición anterior de 'APIENTRY'
+  
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\LabCGeiHC\reporte1.cpp(319,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\LabCGeiHC\reporte1.cpp(320,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\LabCGeiHC\reporte1.cpp(321,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  LabCGeiHC.vcxproj -> C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\LabCGeiHC\Debug\LabCGeiHC.exe
