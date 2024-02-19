@@ -1,6 +1,6 @@
 # Practicas-CGeIHC
-Prácticas de Laboratorio -  Materia: Computación Gráfica e Interacción Humano-Computadora__
-Profesor: Ing. José Roque Guadarrama__
-Alumno: Jesús Antonio Toledo Valencia__
-Grupo de laboratorio: 11__
-Grupo de teoría: 04__
+Prácticas de Laboratorio -  Materia: Computación Gráfica e Interacción Humano-Computadora<br />
+Profesor: Ing. José Roque Guadarrama<br />
+Alumno: Jesús Antonio Toledo Valencia<br />
+Grupo de laboratorio: 11<br />
+Grupo de teoría: 04<br />
