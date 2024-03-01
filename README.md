@@ -4,3 +4,4 @@ Profesor: Ing. José Roque Guadarrama<br />
 Alumno: Jesús Antonio Toledo Valencia<br />
 Grupo de laboratorio: 11<br />
 Grupo de teoría: 04<br />
+Práctica 03: Modelado Geométrico<br />
