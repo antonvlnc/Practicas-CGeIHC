@@ -1,0 +1,23 @@
+﻿  practica4_conjerarquia.cpp
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(28,37): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(191,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(233,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(233,32): warning C4244:         with
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(233,32): warning C4244:         [
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(233,32): warning C4244:             _Ty=GLfloat
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(233,32): warning C4244:         ]
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(235,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(235,32): warning C4244:         with
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(235,32): warning C4244:         [
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(235,32): warning C4244:             _Ty=GLfloat
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(235,32): warning C4244:         ]
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(370,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\practica4_conjerarquia.cpp(372,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica 4.vcxproj -> C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 4\Debug\Practica 4.exe
