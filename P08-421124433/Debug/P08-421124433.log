@@ -1,0 +1,62 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (P07-421124433.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+practica7.obj : error LNK2005: ya se definió "void __cdecl CreateObjects(void)" (?CreateObjects@@YAXXZ) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "void __cdecl CreateShaders(void)" (?CreateShaders@@YAXXZ) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "void __cdecl calcAverageNormals(unsigned int *,unsigned int,float *,unsigned int,unsigned int,unsigned int)" (?calcAverageNormals@@YAXPAIIPAMIII@Z) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _main en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_convert_iphone_png_to_rgb en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_failure_reason en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_hdr_to_ldr_gamma en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_hdr_to_ldr_scale en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_image_free en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_info en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_info_from_callbacks en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_info_from_file en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_info_from_memory en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_is_hdr en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_is_hdr_from_callbacks en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_is_hdr_from_file en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_is_hdr_from_memory en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_ldr_to_hdr_gamma en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_ldr_to_hdr_scale en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_load en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_load_16 en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_load_16_from_callbacks en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_load_16_from_memory en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_load_from_callbacks en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_load_from_file en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_load_from_file_16 en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_load_from_memory en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_loadf en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_loadf_from_callbacks en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_loadf_from_file en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_loadf_from_memory en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_set_flip_vertically_on_load en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_set_unpremultiply_on_load en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_zlib_decode_buffer en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_zlib_decode_malloc en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_zlib_decode_malloc_guesssize en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_zlib_decode_malloc_guesssize_headerflag en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_zlib_decode_noheader_buffer en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió _stbi_zlib_decode_noheader_malloc en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "float deltaTime" (?deltaTime@@3MA) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "float lastTime" (?lastTime@@3MA) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Window mainWindow" (?mainWindow@@3VWindow@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class std::vector<class Mesh *,class std::allocator<class Mesh *> > meshList" (?meshList@@3V?$vector@PAVMesh@@V?$allocator@PAVMesh@@@std@@@std@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class std::vector<class Shader,class std::allocator<class Shader> > shaderList" (?shaderList@@3V?$vector@VShader@@V?$allocator@VShader@@@std@@@std@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Camera camera" (?camera@@3VCamera@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Texture brickTexture" (?brickTexture@@3VTexture@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Texture dirtTexture" (?dirtTexture@@3VTexture@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Texture plainTexture" (?plainTexture@@3VTexture@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Texture pisoTexture" (?pisoTexture@@3VTexture@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Texture AgaveTexture" (?AgaveTexture@@3VTexture@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Model Kitt_M" (?Kitt_M@@3VModel@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Model Llanta_M" (?Llanta_M@@3VModel@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Model Blackhawk_M" (?Blackhawk_M@@3VModel@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Skybox skybox" (?skybox@@3VSkybox@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Material Material_brillante" (?Material_brillante@@3VMaterial@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class Material Material_opaco" (?Material_opaco@@3VMaterial@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class DirectionalLight mainLight" (?mainLight@@3VDirectionalLight@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class PointLight * pointLights" (?pointLights@@3PAVPointLight@@A) en P07-421124433.obj
+practica7.obj : error LNK2005: ya se definió "class SpotLight * spotLights" (?spotLights@@3PAVSpotLight@@A) en P07-421124433.obj
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\P08-421124433\Debug\P08-421124433.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
