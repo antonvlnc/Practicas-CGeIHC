@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (P05-421124433.vcxproj, practica6.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  E06-421124433.cpp
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 06 - 421124433\Practica 06 - 421124433\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E06-421124433.cpp")
+  
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 06 - 421124433\Practica 06 - 421124433\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E06-421124433.cpp")
+  
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 06 - 421124433\Practica 06 - 421124433\E06-421124433.cpp(531,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 06 - 421124433\Practica 06 - 421124433\E06-421124433.cpp(533,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica 06 - 421124433.vcxproj -> C:\Users\anton\OneDrive\Documentos\LabCGeiHC_ToledoValencia\Practica 06 - 421124433\Debug\Practica 06 - 421124433.exe
